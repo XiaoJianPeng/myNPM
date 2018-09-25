@@ -1,5 +1,5 @@
 {
-  "name": "list-iterator",
+  "name": "@backlight_xiao/list-iterator",
   "version": "1.0.0",
   "description": "实用的数组迭代器，可以自定义步长，各种简单数组复杂数组",
   "main": "iterator.js",
