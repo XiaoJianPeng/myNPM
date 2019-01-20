@@ -25,3 +25,4 @@ const arr = [1,2,3,4,5,6,7,8,9,10]
 const iterator = new Iterator(arr,3)
 iterator.next()
 ```
+[有兴趣了解js中的迭代器模式的朋友可以点击这里](https://juejin.im/entry/5b815e97e51d4538dc2bf673/detail)
